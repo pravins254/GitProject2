@@ -6,6 +6,6 @@ public class A {
 		System.out.println("Pravin");
 		System.out.println("A");
 		System.out.println("B");
-		
+		System.out.println("C");
 	}
 }
